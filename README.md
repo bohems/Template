@@ -11,7 +11,7 @@
 2. **Откройте терминал в IDE (Rider, Visual Studio) и выполните команду**
 
     ```
-    dotnet new install Dex.Template.Service -n ИмяСервиса -F Версия
+    dotnet new service -n ИмяСервиса -F Версия
     ```
 
     Где:
